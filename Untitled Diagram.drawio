@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T23:54:42.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="j7JvG1BuNM-HRd21I4s8" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T00:01:07.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="jPRaQRKbvfsof8Ub2nes" version="14.8.3" type="github">
   <diagram id="ePEJdV0YgzogrFHqsuhH" name="Page-1">
     <mxGraphModel dx="946" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ax_5soUSioLsxwY-F-cs-4" value="" style="shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="130" width="270" height="220" as="geometry" />
+          <mxGeometry x="435" y="90" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ax_5soUSioLsxwY-F-cs-6" value="Ethereum Private Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax_5soUSioLsxwY-F-cs-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" vertex="1" parent="1">
           <mxGeometry x="740" y="200" width="81.63" height="80" as="geometry" />
@@ -49,6 +49,12 @@
         </mxCell>
         <mxCell id="ax_5soUSioLsxwY-F-cs-25" value="Node" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="730.8199999999999" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ax_5soUSioLsxwY-F-cs-27" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.security_hub;" vertex="1" parent="1">
+          <mxGeometry x="541" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ax_5soUSioLsxwY-F-cs-28" value="bootnode" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="529" y="140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
